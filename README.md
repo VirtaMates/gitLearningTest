@@ -1,0 +1,2 @@
+# gitLearningTest
+Skusam si git
